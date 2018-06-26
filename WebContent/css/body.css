@@ -1,0 +1,10 @@
+@charset "EUC-KR";
+
+body {
+  font:14px/1.8 Arial, Helvetica, sans-serif;
+}
+.frame {
+  width: 1200px;
+  margin: 0 auto;
+  border: 1px solid #aaa;
+}

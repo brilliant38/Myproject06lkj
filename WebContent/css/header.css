@@ -1,0 +1,20 @@
+@charset "EUC-KR";
+
+.header {
+  padding:40px 10px;
+  text-align: center;
+  background: #eee;
+  margin-bottom: 20px;
+}
+#signup {
+	text-align: left;
+}
+
+.logo {
+  font-size: 2em;
+  font-weight: bold;
+  background: #5457de;
+  color: #fff;
+  display: inline-block;
+  padding: 0 8px;
+}
